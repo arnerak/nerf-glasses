@@ -1,0 +1,10 @@
+commentjson
+imageio
+numpy
+numpy-quaternion
+pybind11
+pyquaternion
+scipy
+tqdm
+mediapipe
+
