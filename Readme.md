@@ -1,7 +1,7 @@
 # NeRF-Glasses
 
 This repository provides the implementation of our hybrid renderer combining neural rendering (Instant NGP) with traditional rendering (surface meshes).
-> __[View-Consistent Virtual Try-on of Glasses using a Hybrid NeRF-Mesh Rendering Approach](todo url)__  
+> __[View-Consistent Virtual Try-on of Glasses using a Hybrid NeRF-Mesh Rendering Approach](https://diglib.eg.org/items/e5a78d0d-e3df-4dfc-a423-27549064f2ff)__  
 > [Arne Rak](https://orcid.org/0000-0001-6385-3455), [Tristan Wirth](https://orcid.org/0000-0002-2445-9081),  [Thomas Lindemeier](https://orcid.org/0009-0003-7715-8439), [Volker Knauthe](https://orcid.org/0000-0001-6993-5099), [Arjan Kuijper](https://orcid.org/0000-0002-6413-0061)  
 > _Computer Graphics & Visual Computing (CGVC) 2024_  
 
